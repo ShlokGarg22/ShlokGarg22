@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Boss
+# 👋 Hi, I'm Shlok
 
 🎓 A passionate student and aspiring developer from Pune, India.
 
@@ -27,7 +27,7 @@
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/shlok-garg-524991320)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)]()
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Shlok_Garg_07)
 
 <!---
 ShlokGarg22/ShlokGarg22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
