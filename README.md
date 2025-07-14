@@ -44,10 +44,10 @@
 
 <h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
 
-<!-- Snake Animation -->
 <p align="center">
-  <img src="https://github.com/ShlokGarg22/ShlokGarg22/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://github.com/ShlokGarg22/ShlokGarg22/blob/main/assets/skyline.gif" />
 </p>
+
 
 <!-- GitHub Stats -->
 <p align="center">
