@@ -42,11 +42,24 @@
 
 ---
 
-## 📈 GitHub Stats
+<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
 
-![Shlok's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShlokGarg22&show_icons=true&theme=radical)
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
 
----
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<!-- Dev Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</p>
+
 
 ## 🌐 Connect with Me
 
