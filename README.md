@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="400"/>
+</p>
+
 # 👋 Hi, I'm Shlok
 
 🎓 A passionate student and aspiring full-stack developer from Pune, India.
@@ -46,7 +50,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=ShlokGarg22&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShlokGarg22&theme=tokyonight" alt="GitHub Streak" />
 </p>
@@ -65,6 +69,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shlok-garg-524991320)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Shlok_Garg_07)
+
+---
 
 <!---
 ShlokGarg22/ShlokGarg22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
