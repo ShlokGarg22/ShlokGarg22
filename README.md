@@ -52,7 +52,7 @@
 
 <p align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=ShlokGarg22&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShlokGarg22&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ShlokGarg22&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
