@@ -197,6 +197,3 @@ flowchart TD
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn"/>
 </div>
-
-
-make it better add some good moving elements in it
