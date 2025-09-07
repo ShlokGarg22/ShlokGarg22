@@ -75,12 +75,12 @@ const shlok = new ShlokGarg();
 
 ### 🎨 **Frontend Excellence**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,sass,redux,materialui&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,sass,redux,materialui&theme=dark" />
 </p>
 
 ### ⚡ **Backend Powerhouse**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,django,java,spring,php,laravel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark" />
 </p>
 
 ### 🤖 **AI & Data Science Arsenal**
