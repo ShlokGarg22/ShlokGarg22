@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Senior+Full-Stack+Developer+%F0%9F%92%BB;AI+%26+Machine+Learning+Architect+%F0%9F%A4%96;Digital+Innovation+Expert+%E2%9A%A1;Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%8C%9F;Transforming+Ideas+into+Reality+%F0%9F%9A%80" alt="Professional Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%F0%9F%92%BB;AI+%26+Machine+Learning+Architect+%F0%9F%A4%96;Digital+Innovation+Expert+%E2%9A%A1;Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%8C%9F;Transforming+Ideas+into+Reality+%F0%9F%9A%80" alt="Professional Typing SVG" />
 </div>
 
 <div align="center">
@@ -39,7 +39,7 @@ class ShlokGarg extends Developer {
     super();
     this.name = "Shlok Garg";
     this.location = "Pune, India 🇮🇳";
-    this.title = "Senior Full-Stack Developer & AI Architect";
+    this.title = "Full-Stack Developer & AI Architect";
     this.email = "shlokgarg2212@gmail.com";
     this.experience = "3+ Years";
     this.specialties = [
@@ -188,7 +188,6 @@ mindmap
       HuggingFace Ecosystem
       TensorFlow/PyTorch
       Data Science
-      MLOps
     Leadership
       Team Mentoring
       Code Reviews
