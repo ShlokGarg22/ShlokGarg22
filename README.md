@@ -9,7 +9,6 @@
 
 ### 🕹️ Player Profile: Shlok.exe
 - **Class:** AI Agent Architect 🤖
-- **Title:** Arena FIDE Master (AFM) 🏆
 - **Current Quest:** Pursuing B.Tech in CS @ Symbiosis Institute of Technology (2024-2028) 🎓
 - **Recent Achievement:** 🥇 Winner @ Lablab.ai Hackathon (GameForge AI)
 
@@ -17,8 +16,8 @@
 
 ### 🛡️ Skill Tree (XP Points)
 
-| Category | Skills & Artifacts | Proficiency |
-| :--- | :--- | :--- |
+| Category | Skills & Artifacts |
+| :--- | :--- |
 | **Agentic AI** | LangGraph, CrewAI, LangChain, Multi-Agent Systems 
 | **Generative AI** | LLM Fine-tuning (Unsloth), RAG, Vector DBs (Pinecone/Chroma) |
 | **Full Stack** | Next.js, TypeScript, Convex, MERN Stack |
