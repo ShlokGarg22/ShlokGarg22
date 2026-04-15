@@ -10,8 +10,6 @@
 ### 🕹️ Player Profile: Shlok.exe
 - **Class:** AI Agent Architect 🤖
 - **Current Quest:** Pursuing B.Tech in CS @ Symbiosis Institute of Technology (2024-2028) 🎓
-- **Recent Achievement:** 🥇 Winner @ Lablab.ai Hackathon (GameForge AI)
-
 ---
 
 ### 🛡️ Skill Tree (XP Points)
@@ -51,7 +49,6 @@
 
 ### 📊 Tactical Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shlokgarg22&show_icons=true&locale=en&layout=compact" alt="shlokgarg22" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shlokgarg22&" alt="shlokgarg22" />
 </p>
 
