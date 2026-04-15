@@ -1,80 +1,67 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Shlok Garg</h1>
+<h3 align="center">Building the future with Agentic AI & Orchestration</h3>
 
-# 🚀 Shlok Garg  
-### Full-Stack Developer • AI Engineer • System Architect  
-
-Building scalable systems and intelligent software for the real world.
-
-<br>
-
-<a href="https://linkedin.com/in/shlok-garg-524991320">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:shlokgarg2212@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://x.com/Shlok_Garg_07">
-  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shlokgarg22&label=Profile%20views&color=0e75b6&style=flat" alt="shlokgarg22" />
+</p>
 
 ---
 
-## 🧠 About Me
+### 🤖 What I'm Up To
+- 🛠️ Building multi-agent systems using **CrewAI** and **LangGraph**.
+- 🧠 Architecting LLM applications with **LangChain** and RAG pipelines.
+- 🏗️ Scaling full-stack AI apps using the **MERN** stack and **AWS/Azure**.
 
-```javascript
-class Shlok {
-  constructor() {
-    this.role = "Full-Stack Developer & AI Builder";
-    this.location = "Pune, India";
-    this.interests = [
-      "Scalable Backend Systems",
-      "AI in Production",
-      "System Design",
-      "Performance Engineering"
-    ];
-  }
+---
 
-  philosophy() {
-    return "Build fast. Scale smart. Stay consistent.";
-  }
-}
+### 🛠️ Languages and Tools
 
-export default new Shlok();
+#### **AI & Orchestration**
+<p align="left">
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,g_faces,z_0.7,b_white/v1676481135/p2mquf6a0o2f3vx2n15v.png" alt="langchain" width="40" height="40"/> </a>
+  <a href="https://www.crewai.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.prod.website-files.com/653063577ef3724338e55e51/653063577ef3724338e55e8d_crewai_logo.png" alt="crewai" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+</p>
 
-## 🛠️ Technology Stack
+#### **Full Stack & Cloud**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</p>
 
-<div align="center">
+---
 
-### 🎨 Frontend
+### 🕹️ The "Dev" RPG Stats
+*Click on a skill to see my "mana" level:*
 
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind&theme=dark" />
+| Skill | Level | Mastery |
+| :--- | :--- | :--- |
+| **Agentic AI (CrewAI/LangChain)** | 🟩🟩🟩🟩⬜ | 80% |
+| **Python / Data Science** | 🟩🟩🟩🟩🟩 | 95% |
+| **Full Stack (MERN)** | 🟩🟩🟩🟩⬜ | 85% |
+| **Cloud Architecting** | 🟩🟩🟩⬜⬜ | 65% |
+| **Coffee Consumption** | 🟩🟩🟩🟩🟩 | 100% |
 
-<br><br>
+---
 
-### ⚙️ Backend
+### 📊 Github Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shlokgarg22&show_icons=true&locale=en&layout=compact" alt="shlokgarg22" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shlokgarg22&" alt="shlokgarg22" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark" />
+---
 
-<br><br>
-
-### 🤖 AI / Machine Learning
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
-<br>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-
-<br><br>
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql&theme=dark" />
-
-<br><br>
-
-### ☁️ DevOps & Cloud
-
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git&theme=dark" />
-
-</div>
+### 🤝 Connect with me:
+<p align="left">
+<a href="https://twitter.com/shlok_garg_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shlok_garg_07" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shlok-garg-524991320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shlok-garg-524991320" height="30" width="40" /></a>
+<a href="https://medium.com/@shlokgarg2212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shlokgarg2212" height="30" width="40" /></a>
+</p>
